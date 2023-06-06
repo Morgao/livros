@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+
+int main() {
+	float fahrenheit, celsius;
+	int inicio, fim, incr;
+	
+	inicio = 0; /* limite inferior da tabela */
+	fim = 300; /* limite superio */
+	incr = 20; /* incremento */
+	
+	fahrenheit = inicio;
+	while (fahrenheit <= fim){
+		celsius = (5.0/9.0) * (fahrenheit - 32.0);
+		printf("%3.0f\t%6.1f\n",fahrenheit,celsius);
+		fahrenheit = fahrenheit + incr;
+	}
+
+	return 0;
+}
