@@ -1,0 +1,72 @@
+Entre os outros que o C provê estão \t para
+tabulação, \b para retrocesso, \” para a aspa, e \\ para a contrabarra propriamente
+dita. Há uma lista completa na Seção 2.3
+
+C provê vários outros tipos de dados básicos além de int e float, incluindo:
+char caractere — um único byte
+short inteiro curto
+long inteiro longo
+double ponto flutuante em dupla precisão
+
+A faixa de int e float depende
+da máquina que você está usando; ints de 16 bits, que se encontram na faixa entre —
+32768 e + 32767, são comuns, assim como ints de 32 bits. Um número float é
+normalmente uma quantidade de 32 bits, com pelo menos seis dígitos significativos
+e magnitude geralmente entre IO-38 e 10+38
+
+Cada linha da tabela é computada da mesma forma, e usamos, portanto, um
+laço que se repete uma vez por linha; essa é a finalidade do laço while.
+while (fahr <= fim) {
+}
+O laço while opera da seguinte forma: a condição entre parênteses é testada. Se ela é
+verdadeira (fahr é menor ou igual a fim), o corpo do laço (todos os comandos entre
+{ e }) é executado. Então a condição é retestada, e se verdadeira, o corpo é execu-
+tado novamente. Quando o teste se tomar falso (fahr exceder fim) o laço terminará,
+e a execução continuará no comando que segue o laço. Não há mais comandos
+neste programa, e ele termina
+
+A razão para multiplicarmos por cinco e depois dividirmos por nove ao invés da
+construção mais simples 5/9 é que, em C, como na maioria das outras linguagens, a
+divisão inteira trunca o resultado, de forma que qualquer parte fracionária é per-
+dida. Como 5 e 9 são inteiros, 5/9 seria truncado para zero, e assim todas as tem-
+peraturas em Celsius seriam relatadas como zero.
+
+printf ("%3d %6d\n", fahr, celsius);
+para imprimir o primeiro número de cada linha em um campo de três dígitos de
+largura, e o segundo em um campo de seis dígitos, assim:
+0 -17
+20 - 6
+40 4
+60 15
+80 26
+100 37
+
+nto flutuante.
+Se um operador aritmético tiver operandos inteiros, uma operação inteira é
+executada. Se um operador aritmético tiver um operando de ponto flutuante e um
+operando inteiro, no entanto, o inteiro será convertido para ponto flutuante antes
+que a operação seja realizada. Se tivéssemos escrito fahr — 32, o 32 seria automati-
+camente convertido para ponto flutuante. Apesar disso, escrever constantes de
+ponto flutuante com pontos decimais explícitos, mesmo quando possuem valores
+integrais, enfatiza sua natureza de ponto flutuante para os leitores humanos.
+As regras detalhadas para quando os inteiros são convertidos para ponto flu-
+tuante estão no Capítulo 2. Por ora, observe que a atribuição
+
+A largura e precisão podem ser omitidos da especificação: %6f diz que o número
+deve ter pelo menos seis caracteres de largura; %.2f especifica dois caracteres após o
+ponto decimal, mas a largura não tem restrição; e %f simplesmente diz para impri-
+mir o número como ponto flutuante.
+%d imprime como inteiro decimal
+%6d imprime como inteiro decimal, pelo menos 6 caracteres
+de largura
+%f imprime como ponto flutuante
+%6f imprime como ponto flutuante, pelo menos 6 caracteres
+de largura
+%.2f imprime como ponto flutuante, 2 caracteres após o ponto
+decimal
+%6.2f imprime como ponto flutuante, pelo menos 6 caracteres
+de largura e 2 após ponto decimal
+
+
+Entre outros, printf também reconhece %o para octal, %x para hexadecimal, %c
+para caractere, %s para cadeia (string) de caracteres e %% para o próprio %
