@@ -1,0 +1,17 @@
+C:\Users\admna\OneDrive\Área de Trabalho\CSharp2003Codigos\cap_3\vsComunityIDE\Codigo\Codigo\obj\Debug\net6.0-windows\Codigo.csproj.AssemblyReference.cache
+C:\Users\admna\OneDrive\Área de Trabalho\CSharp2003Codigos\cap_3\vsComunityIDE\Codigo\Codigo\obj\Debug\net6.0-windows\Codigo.Form1.resources
+C:\Users\admna\OneDrive\Área de Trabalho\CSharp2003Codigos\cap_3\vsComunityIDE\Codigo\Codigo\obj\Debug\net6.0-windows\Codigo.csproj.GenerateResource.cache
+C:\Users\admna\OneDrive\Área de Trabalho\CSharp2003Codigos\cap_3\vsComunityIDE\Codigo\Codigo\obj\Debug\net6.0-windows\Codigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admna\OneDrive\Área de Trabalho\CSharp2003Codigos\cap_3\vsComunityIDE\Codigo\Codigo\obj\Debug\net6.0-windows\Codigo.AssemblyInfoInputs.cache
+C:\Users\admna\OneDrive\Área de Trabalho\CSharp2003Codigos\cap_3\vsComunityIDE\Codigo\Codigo\obj\Debug\net6.0-windows\Codigo.AssemblyInfo.cs
+C:\Users\admna\OneDrive\Área de Trabalho\CSharp2003Codigos\cap_3\vsComunityIDE\Codigo\Codigo\obj\Debug\net6.0-windows\Codigo.csproj.CoreCompileInputs.cache
+C:\Users\admna\OneDrive\Área de Trabalho\CSharp2003Codigos\cap_3\vsComunityIDE\Codigo\Codigo\bin\Debug\net6.0-windows\Codigo.exe
+C:\Users\admna\OneDrive\Área de Trabalho\CSharp2003Codigos\cap_3\vsComunityIDE\Codigo\Codigo\bin\Debug\net6.0-windows\Codigo.deps.json
+C:\Users\admna\OneDrive\Área de Trabalho\CSharp2003Codigos\cap_3\vsComunityIDE\Codigo\Codigo\bin\Debug\net6.0-windows\Codigo.runtimeconfig.json
+C:\Users\admna\OneDrive\Área de Trabalho\CSharp2003Codigos\cap_3\vsComunityIDE\Codigo\Codigo\bin\Debug\net6.0-windows\Codigo.dll
+C:\Users\admna\OneDrive\Área de Trabalho\CSharp2003Codigos\cap_3\vsComunityIDE\Codigo\Codigo\bin\Debug\net6.0-windows\Codigo.pdb
+C:\Users\admna\OneDrive\Área de Trabalho\CSharp2003Codigos\cap_3\vsComunityIDE\Codigo\Codigo\obj\Debug\net6.0-windows\Codigo.dll
+C:\Users\admna\OneDrive\Área de Trabalho\CSharp2003Codigos\cap_3\vsComunityIDE\Codigo\Codigo\obj\Debug\net6.0-windows\refint\Codigo.dll
+C:\Users\admna\OneDrive\Área de Trabalho\CSharp2003Codigos\cap_3\vsComunityIDE\Codigo\Codigo\obj\Debug\net6.0-windows\Codigo.pdb
+C:\Users\admna\OneDrive\Área de Trabalho\CSharp2003Codigos\cap_3\vsComunityIDE\Codigo\Codigo\obj\Debug\net6.0-windows\Codigo.genruntimeconfig.cache
+C:\Users\admna\OneDrive\Área de Trabalho\CSharp2003Codigos\cap_3\vsComunityIDE\Codigo\Codigo\obj\Debug\net6.0-windows\ref\Codigo.dll

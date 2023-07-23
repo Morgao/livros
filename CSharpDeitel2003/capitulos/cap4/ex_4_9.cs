@@ -1,0 +1,1 @@
+a) um loop infinito pois o z nao foi incrementado apos o comando

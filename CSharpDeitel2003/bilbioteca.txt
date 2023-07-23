@@ -1,0 +1,54 @@
+int x = 10;
+char a = 'a';
+string b = "Palavra";
+float y = 3.15;
+double z = 3.1516;
+
+
+Operardores de atribuicao
+c = c + 3;
+c += 3;
+
+Operador unarios
+++
+--
+++a inscrementa e usa pre incremento
+a++ usa a variavel depois incrementa pos incremento
+
+
+
+Console.ReadLine(); // le uma string
+ConvertToInt32(Console.ReadLine(); // convert para int 32 bits a string
+x = Int32.Parse(Console.ReadLine());
+Console.ReadKey(); // espera digitar algo no console
+Console.ReadLine(); // Leitura do teclado
+
+double x = 5.12;
+int y;
+y = (int)x;      // convertendo um double em int // conversao explicita ou cast
+Console.WriteLine(y);
+
+
+
+if ( x> 2)
+{
+	// condicao verdadeira
+}
+else 
+{
+	// condicao falsa
+}
+
+
+Operador Ternario // IFELSE
+Console.WriteLine(notaAluno >= 60 ? "Passou" : "Reprovou");
+
+x = 0;
+while (x < 10)
+{
+	Console.WriteLine(x);
+	x = x +1;
+}
+
+while com flag
+caso nao digite -1 não para o loop
