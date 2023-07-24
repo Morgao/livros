@@ -16,7 +16,7 @@ Operador unarios
 a++ usa a variavel depois incrementa pos incremento
 
 
-
+List<string> nomes = new List<string>();
 Console.ReadLine(); // le uma string
 ConvertToInt32(Console.ReadLine(); // convert para int 32 bits a string
 x = Int32.Parse(Console.ReadLine());
